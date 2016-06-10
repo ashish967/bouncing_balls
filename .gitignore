@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gradle
+.idea
+build
+gradle
+BouncingBalls.iml
+import-summary.txt
+gradlew.bat
+gradlew
